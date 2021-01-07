@@ -53,6 +53,7 @@ describe('GET /quotient', () => {
 });
 */
 
+/*
 describe('GET /generate endpoint', () => {
   it('should generate an array of 5', () => {
     return supertest(app)
@@ -70,3 +71,4 @@ describe('GET /generate endpoint', () => {
       });
   })
 });
+*/
